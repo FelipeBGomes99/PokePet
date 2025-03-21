@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\controller\\pokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\controller\\pokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\service\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\model\\pokemonspecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\model\\pokemonspecies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\service\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|c:\\users\\felip\\dev c#\\githubprojects\\pokepet\\pokepet\\model\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C2C77D8-27C5-44F2-B740-39CB9971B8E6}|PokePet\\PokePet.csproj|solutionrelative:pokepet\\model\\pokemondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutoMapperprofile.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Service\\AutoMapperprofile.cs",
+              "RelativeDocumentMoniker": "PokePet\\Service\\AutoMapperprofile.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Service\\AutoMapperprofile.cs",
+              "RelativeToolTip": "PokePet\\Service\\AutoMapperprofile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:03:26.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Model\\PokemonDTO.cs",
+              "RelativeDocumentMoniker": "PokePet\\Model\\PokemonDTO.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Model\\PokemonDTO.cs",
+              "RelativeToolTip": "PokePet\\Model\\PokemonDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T23:31:20.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokeController.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Controller\\PokeController.cs",
+              "RelativeDocumentMoniker": "PokePet\\Controller\\PokeController.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Controller\\PokeController.cs",
+              "RelativeToolTip": "PokePet\\Controller\\PokeController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwEoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T23:02:32.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Service\\ApiService.cs",
+              "RelativeDocumentMoniker": "PokePet\\Service\\ApiService.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Service\\ApiService.cs",
+              "RelativeToolTip": "PokePet\\Service\\ApiService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwv0EAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T21:55:08.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonSpecies.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Model\\PokemonSpecies.cs",
+              "RelativeDocumentMoniker": "PokePet\\Model\\PokemonSpecies.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Model\\PokemonSpecies.cs",
+              "RelativeToolTip": "PokePet\\Model\\PokemonSpecies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:18:56.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Program.cs",
+              "RelativeDocumentMoniker": "PokePet\\Program.cs",
+              "ToolTip": "C:\\Users\\felip\\Dev C#\\GitHubProjects\\PokePet\\PokePet\\Program.cs*",
+              "RelativeToolTip": "PokePet\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T18:00:43.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
